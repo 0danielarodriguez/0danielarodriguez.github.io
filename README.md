@@ -1,2 +1,0 @@
-# danielarodriguez.github.io
-website
